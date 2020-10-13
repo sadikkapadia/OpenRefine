@@ -1,2 +1,2 @@
-tools = "infer"
+tools = [ "infer" ]
 build = "make"
