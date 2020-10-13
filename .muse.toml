@@ -1,2 +1,2 @@
 tools = [ "infer" ]
-build = "make main"
+build = "CompDB"
