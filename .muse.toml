@@ -1,2 +1,2 @@
 tools = [ "infer" ]
-build = "make"
+build = "make main"
