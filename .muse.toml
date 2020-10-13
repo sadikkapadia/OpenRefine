@@ -1,2 +1,2 @@
 tools = [ "infer" ]
-build = "CompDB"
+
